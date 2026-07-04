@@ -8,10 +8,12 @@ Tech Journey — learn, build, and grow in tech.
 
 ## Recent Posts
 
-### IP Address - Explained in Nepali *July 03, 2026*
+### IP Address - Explained in Nepali 
 📚 System Design Series
 
 🎥 [Youtube shorts](https://www.youtube.com/shorts/nV8lFyqN3RA) • 📖 [Article](system_design_series/01-ip.md)
+
+*July 03, 2026*
 
 
 ## Feedback
